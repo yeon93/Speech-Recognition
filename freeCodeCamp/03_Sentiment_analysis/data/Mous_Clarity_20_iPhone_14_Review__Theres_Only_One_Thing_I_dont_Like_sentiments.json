@@ -1,0 +1,426 @@
+[
+    {
+        "text": "This is the mouse Clarity 20.",
+        "start": 330,
+        "end": 2750,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.9125435948371887,
+        "speaker": null
+    },
+    {
+        "text": "It's a damn good clear case, but there is one thing I don't really like about it when it comes to clear cases.",
+        "start": 2820,
+        "end": 7594,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.8397931456565857,
+        "speaker": null
+    },
+    {
+        "text": "In your search for a product that's going to show off the color of your iPhone, the mouse Clarity 20 should be on your short list.",
+        "start": 7642,
+        "end": 12862,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5615756511688232,
+        "speaker": null
+    },
+    {
+        "text": "I'm aaron the ho.",
+        "start": 12916,
+        "end": 13614,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7480331063270569,
+        "speaker": null
+    },
+    {
+        "text": "This is Monty.",
+        "start": 13652,
+        "end": 14106,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7910338044166565,
+        "speaker": null
+    },
+    {
+        "text": "Though we've been reviewing iPhone cases for the last ten years, and in this video, we're going to break down the Clarity 20.",
+        "start": 14138,
+        "end": 18846,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8555482625961304,
+        "speaker": null
+    },
+    {
+        "text": "In terms of design, functionality and protection, the Clarity 20 has been beefed up.",
+        "start": 18868,
+        "end": 23406,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7961834669113159,
+        "speaker": null
+    },
+    {
+        "text": "It's basically a clarity with a mouse AXA arrange.",
+        "start": 23428,
+        "end": 25618,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8268065452575684,
+        "speaker": null
+    },
+    {
+        "text": "It's a ClearBack case with a black edge, and the edge of the case is actually quite low along the middle of the iPhone, but very high in the corners.",
+        "start": 25634,
+        "end": 31698,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5569015145301819,
+        "speaker": null
+    },
+    {
+        "text": "This is great for screen access.",
+        "start": 31714,
+        "end": 32918,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9717900156974792,
+        "speaker": null
+    },
+    {
+        "text": "Now, the black edge has a glossy finish to it, but it kind of extends throughout the entire back of the case, and that's one of the reasons why I love this product.",
+        "start": 33004,
+        "end": 40518,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9824580550193787,
+        "speaker": null
+    },
+    {
+        "text": "On the inside, the TPU edge is lined with Aeroshock Musson version of TPE, which is the secret sauce for drop protection.",
+        "start": 40604,
+        "end": 46274,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.886480987071991,
+        "speaker": null
+    },
+    {
+        "text": "Bottom in the case also has two attachment points for a wrist that's a little kick in key.",
+        "start": 46322,
+        "end": 50382,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8933655619621277,
+        "speaker": null
+    },
+    {
+        "text": "The back of the case houses a MAXIF magnet.",
+        "start": 50436,
+        "end": 52298,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.790913999080658,
+        "speaker": null
+    },
+    {
+        "text": "Arrange is thin enough that made for maxief charges will provide 15 watts of charging to your iPhone.",
+        "start": 52314,
+        "end": 56874,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5310496091842651,
+        "speaker": null
+    },
+    {
+        "text": "And I really don't think I had to test this, but despite my best attempts, those magnets stay in the back of the case, which is something I can't say for other cases.",
+        "start": 56922,
+        "end": 63530,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5141281485557556,
+        "speaker": null
+    },
+    {
+        "text": "Now, the top and bottom of the cases are thick, and thick is kind of a trend these days, isn't it, Monty?",
+        "start": 63610,
+        "end": 69418,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6791976690292358,
+        "speaker": null
+    },
+    {
+        "text": "When you pull up an old clarity with a new clarity, you can definitely tell how much thicker it is.",
+        "start": 69594,
+        "end": 73422,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6356674432754517,
+        "speaker": null
+    },
+    {
+        "text": "This thick top and bottom assures that the back of the case doesn't scratch when placed on a flat surface.",
+        "start": 73476,
+        "end": 77538,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6350783705711365,
+        "speaker": null
+    },
+    {
+        "text": "And they are so wide that mouse actually was able to remove part of the camera protection as the case is high and flat enough that you don't need it for the bottom of the camera area.",
+        "start": 77634,
+        "end": 84982,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6035295724868774,
+        "speaker": null
+    },
+    {
+        "text": "All right, back to the finish that mouse uses on the back of the case.",
+        "start": 85036,
+        "end": 87382,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8360528945922852,
+        "speaker": null
+    },
+    {
+        "text": "It's a rubber coating that doesn't feel tacky, like your typical TPU case, but has enough texture on it that it doesn't feel like I'm using a wet bar of soap, which is very common for clear cases.",
+        "start": 87436,
+        "end": 96854,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5414497256278992,
+        "speaker": null
+    },
+    {
+        "text": "This improves the handling of not only the case and iPhone, but also the magazine accessories that you're going to use with your iPhone.",
+        "start": 96902,
+        "end": 102294,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9131958484649658,
+        "speaker": null
+    },
+    {
+        "text": "You know, things like grips, wallets, battery packs and car mounts.",
+        "start": 102342,
+        "end": 106682,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7817004323005676,
+        "speaker": null
+    },
+    {
+        "text": "You like what you see?",
+        "start": 106746,
+        "end": 107630,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7821825742721558,
+        "speaker": null
+    },
+    {
+        "text": "Get your own case.",
+        "start": 107700,
+        "end": 108606,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6388967633247375,
+        "speaker": null
+    },
+    {
+        "text": "Use my links.",
+        "start": 108708,
+        "end": 109674,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7894081473350525,
+        "speaker": null
+    },
+    {
+        "text": "Like all my other content, it's not sponsored Melson Painting to do this review, but I do thrive on affiliate commissions for iPhone access.",
+        "start": 109722,
+        "end": 117262,
+        "sentiment": "POSITIVE",
+        "confidence": 0.7429967522621155,
+        "speaker": null
+    },
+    {
+        "text": "The standout feature are the low edges along the middle of the case.",
+        "start": 117316,
+        "end": 119742,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6449686288833618,
+        "speaker": null
+    },
+    {
+        "text": "Now, when used with a glass screen protector, it's almost like the case edge isn't there.",
+        "start": 119796,
+        "end": 124238,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5460147261619568,
+        "speaker": null
+    },
+    {
+        "text": "I don't know why most case companies don't do this, because this feature is just killer.",
+        "start": 124324,
+        "end": 128194,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.946365475654602,
+        "speaker": null
+    },
+    {
+        "text": "The buttons are still built in the case, which is unlike the floating buttons found on the newer Limitless 50.",
+        "start": 128242,
+        "end": 132246,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8202568292617798,
+        "speaker": null
+    },
+    {
+        "text": "And there's really nothing wrong with that.",
+        "start": 132268,
+        "end": 133526,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6207741498947144,
+        "speaker": null
+    },
+    {
+        "text": "They just feel a little bit, well, squishier.",
+        "start": 133548,
+        "end": 135634,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6836745738983154,
+        "speaker": null
+    },
+    {
+        "text": "The cutouts on the Clarity are also larger than average, ensuring easy access to, well, all the things that are cut out.",
+        "start": 135682,
+        "end": 140838,
+        "sentiment": "POSITIVE",
+        "confidence": 0.6474539041519165,
+        "speaker": null
+    },
+    {
+        "text": "Overall, the handling of the Clarity 20 is just top notch.",
+        "start": 140924,
+        "end": 143694,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9252906441688538,
+        "speaker": null
+    },
+    {
+        "text": "The only thing that I don't like about it are the color choices.",
+        "start": 143762,
+        "end": 146598,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.9521504044532776,
+        "speaker": null
+    },
+    {
+        "text": "It's either a black edge with a clear back or a black edge with a colorful back.",
+        "start": 146694,
+        "end": 150122,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8295018672943115,
+        "speaker": null
+    },
+    {
+        "text": "And I'll be honest with you, one of the draws for a clear case is the ability to show off the color of your iPhone.",
+        "start": 150176,
+        "end": 155466,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.493747740983963,
+        "speaker": null
+    },
+    {
+        "text": "And with the updated Deep Purple and the normal purple or the blue versions of the iPhones, you really can't.",
+        "start": 155578,
+        "end": 163050,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5480090379714966,
+        "speaker": null
+    },
+    {
+        "text": "You can show off the back, but then the edges are all black.",
+        "start": 163130,
+        "end": 165182,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7262722253799438,
+        "speaker": null
+    },
+    {
+        "text": "And so that's just like the only knock I have about this product in terms of it being a clear case.",
+        "start": 165236,
+        "end": 170334,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.615362286567688,
+        "speaker": null
+    },
+    {
+        "text": "When it comes to protection, corner drops aren't going to be an issue.",
+        "start": 170452,
+        "end": 172734,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7078867554664612,
+        "speaker": null
+    },
+    {
+        "text": "The Clarity is going to show more damage than other cases, as the finish on the case will scuff off a little easier than other cases.",
+        "start": 172772,
+        "end": 178898,
+        "sentiment": "NEGATIVE",
+        "confidence": 0.6500447392463684,
+        "speaker": null
+    },
+    {
+        "text": "For the face first drops, the high corners are going to do a better job of keeping the screen from hitting the ground.",
+        "start": 178994,
+        "end": 183282,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.5398638844490051,
+        "speaker": null
+    },
+    {
+        "text": "Which, again, goes back to the thing, why aren't other case companies doing that?",
+        "start": 183346,
+        "end": 186662,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.583848237991333,
+        "speaker": null
+    },
+    {
+        "text": "This is just such a smart design, which is why it ranks so well in my product scores.",
+        "start": 186716,
+        "end": 191474,
+        "sentiment": "POSITIVE",
+        "confidence": 0.984415590763092,
+        "speaker": null
+    },
+    {
+        "text": "So that's all I got for this video question.",
+        "start": 191522,
+        "end": 192694,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7621327638626099,
+        "speaker": null
+    },
+    {
+        "text": "Comments?",
+        "start": 192732,
+        "end": 193026,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.7519386410713196,
+        "speaker": null
+    },
+    {
+        "text": "Leave them down there first.",
+        "start": 193058,
+        "end": 193814,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6067570447921753,
+        "speaker": null
+    },
+    {
+        "text": "To watch my videos, hit the subscribe button.",
+        "start": 193852,
+        "end": 195622,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.6397148966789246,
+        "speaker": null
+    },
+    {
+        "text": "If you're planning on getting one of these cases, make sure you use my links.",
+        "start": 195676,
+        "end": 198530,
+        "sentiment": "NEUTRAL",
+        "confidence": 0.8434301018714905,
+        "speaker": null
+    },
+    {
+        "text": "Thanks for watching.",
+        "start": 198610,
+        "end": 199140,
+        "sentiment": "POSITIVE",
+        "confidence": 0.9529334306716919,
+        "speaker": null
+    }
+]
